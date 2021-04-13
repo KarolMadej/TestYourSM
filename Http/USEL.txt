@@ -1,0 +1,28 @@
+#login_form > div.white_block > article > div > div:nth-child(1) > input
+#loginUsername
+#login-username
+#name
+#loginUserName
+#LoginEmail
+#loginform-customers_email_address
+#signin-dropdown > div.signin-dialog-body > form > div.LoginForm-input.LoginForm-username > input
+#react-root > section > main > div > article > div > div:nth-child(1) > div > form > div:nth-child(2) > div > label > input
+#f_login
+#login
+#_poczta_zaloguj > input:nth-child(1)
+#input_username
+#email
+#login_username
+#epic_username
+#app-page > div:nth-child(2) > div:nth-child(1) > div > div > form > fieldset:nth-child(1) > span > input
+#usernameModal
+#adobeid_username
+#id
+#gameAccountName
+#ap_email
+#loginem
+#username
+#topBarLogin
+#wpName1
+#email
+END

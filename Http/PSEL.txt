@@ -1,0 +1,22 @@
+#login_form > div.white_block > article > div > div.form-group.w_margin > input
+#loginPassword
+#login-password
+#loginFormElement > div > div:nth-child(5) > input[type=password]
+#password
+#login-password
+#LoginPassword
+#loginform-customers_password
+#signin-dropdown > div.signin-dialog-body > form > div.LoginForm-input.LoginForm-username > input
+#react-root > section > main > div > article > div > div:nth-child(1) > div > form > div:nth-child(3) > div > label > input
+#f_password
+#_poczta_zaloguj > input:nth-child(2)
+#input_password
+#login_password
+#app-page > div:nth-child(2) > div:nth-child(1) > div > div > form > fieldset:nth-child(2) > span.UI__PasswordInput-socialclub__inputContainer.UI__PasswordInput-socialclub__hasReveal > span.UI__TextInput-socialclub__input.UI__PasswordInput-socialclub__passwordInput > input
+#passwordModal
+#adobeid_password
+#ap_password
+#loginpwd
+#topbarLoginForm > form > div:nth-child(4) > label
+#wpPassword1
+END

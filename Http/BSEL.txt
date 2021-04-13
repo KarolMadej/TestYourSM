@@ -1,0 +1,32 @@
+#submit_login
+body > div > div > div.PageColumn.PageColumn__right > div > form > fieldset:nth-child(10) > button
+#login-button
+#submitBtnRight
+#loginbutton
+#submit > span
+#dialog > tbody > tr > td > form > div > p.pt16.ac > input
+#signin-dropdown > li:nth-child(2) > div > form > div:nth-child(6) > div > button
+#loginbtn
+#panel > section.auth__login.content > div > div.container > div > div:nth-child(1) > div:nth-child(3) > div.d-flex.flex-column.col-12 > form > div.login__actions > button > svg
+#w0 > div:nth-child(7) > div > button
+#signin-dropdown > div.signin-dialog-body > form > div.LoginForm-input.LoginForm-username > input
+#react-root > section > main > div > article > div > div:nth-child(1) > div > form > div:nth-child(4)
+#loginForm > div.formContainer > ul.extendedLinks > li.last > a
+#btnSubmit
+#_poczta_zaloguj > button
+#login_btn_signin > button > span
+#logInBtn
+#login_login
+#signIn
+#app-page > div:nth-child(2) > div:nth-child(1) > div > div > form > fieldset.loginform__submitField > div > button > div > span
+#signinSubmit
+#sign_in
+#loginForm > div > fieldset > div.wrapButton > a
+#login-form > div.row > div > button
+#signInSubmit
+#login > div:nth-child(4) > div.col-xs-offset-8.col-xs-4.col-sm-offset-4.col-sm-2 > input
+#loginButton
+#topBar_LoginBtn
+#wpLoginAttempt
+body > main > user-login > section > div.user-login__section > div > div > form > div.buttons-group > button
+END
